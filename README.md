@@ -1,13 +1,11 @@
 ![Views](https://komarev.com/ghpvc/?username=TheB1t)
 
-<h1 align="center">Hello there, I'm Igor 👋</h1>
+<h1 align="center">Hello there, I'm Igor</h1>
 
 ## About me
 I'm a C/C++ developer currently working at [Inango](inango.com).
 
 I write different projects for self-development and just for fun, using different languages/frameworks and tools. Also i good at administering Linux based servers.
-
-I am currently working on my game engine based on DirectX10.
 
 **Languages:**
 * C/C++
