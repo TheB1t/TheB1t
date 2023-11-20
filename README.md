@@ -3,7 +3,7 @@
 <h1 align="center">Hello there, I'm Igor</h1>
 
 ## About me
-I'm a C/C++ developer currently working at [Inango](inango.com).
+I'm software developer currently working at [Inango](inango.com).
 
 I write different projects for self-development and just for fun, using different languages/frameworks and tools. Also i good at administering Linux based servers.
 
