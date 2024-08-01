@@ -1,4 +1,5 @@
 ![Views](https://komarev.com/ghpvc/?username=TheB1t)
+![](https://hit.yhype.me/github/profile?user_id=40766598)
 
 <h2 align="center">About me</h2>
 <div align="center">
