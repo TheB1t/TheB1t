@@ -1,38 +1,62 @@
 ![Views](https://komarev.com/ghpvc/?username=TheB1t)
 
-<h1 align="center">Hello there, I'm Igor</h1>
+<h2 align="center">About me</h2>
+<div align="center">
 
-## About me
-I'm software developer currently working at [Inango](inango.com).
+I'm software engineer currently working at [Inango](inango.com).
 
-I write different projects for self-development and just for fun, using different languages/frameworks and tools. Also i good at administering Linux based servers.
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">OS</th>
+      <td>Debian 11 (bullseye)</td>
+    </tr>
+    <tr>
+      <th scope="row">WM</th>
+      <td>dwm</td>
+    </tr>
+    <tr>
+      <th scope="row">Terminal</th>
+      <td>alacritty</td>
+    </tr>
+  </tbody>
+</table>
 
-**Languages:**
-* C/C++
-* Assembler ([NASM](https://en.wikipedia.org/wiki/Netwide_Assembler))
-* Python
-* Lua
+</div>
+<h2 align="center">Languages</h2>
+<div align="center">
 
-**Programming tools:**
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [cmake](https://github.com/Kitware/CMake)
-* [make](https://en.wikipedia.org/wiki/Make_(software))
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Libraries:**
-* [DirectX10](https://en.wikipedia.org/wiki/DirectX)
-* [libopencm3](https://github.com/libopencm3/libopencm3)
-* [CMSIS](https://github.com/ARM-software/CMSIS_5)
+</div>
+<h2 align="center">Tools/apps</h2>
+<div align="center">
 
-**Linux tools/apps:**
-* [apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
-* [nginx](https://en.wikipedia.org/wiki/Nginx)
-* [lighttpd](https://en.wikipedia.org/wiki/Lighttpd)
-* [docker](https://www.docker.com/)
-* [QEMU](https://www.qemu.org/)
-* [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-%23F46800.svg?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**Knowlege:**
-* Networking
+</div>
+<h2 align="center">Libraries</h2>
+<div align="center">
 
-## Statistic
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheB1t)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![libopencm3](https://img.shields.io/badge/libopencm3-%2300599C.svg?style=for-the-badge)
+
+</div>
+<h2 align="center">Statistic</h2>
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TheB1t&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheB1t&layout=donut-vertical&bg_color=222222&text_color=888888)
+
+</div>
