@@ -10,7 +10,7 @@ I'm software engineer currently working at [Inango](inango.com).
   <tbody>
     <tr>
       <th scope="row">OS</th>
-      <td>Debian 11 (bullseye)</td>
+      <td>Debian 12 (bookworm)</td>
     </tr>
     <tr>
       <th scope="row">WM</th>
