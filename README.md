@@ -46,7 +46,7 @@ I'm software engineer currently working at [Inango](inango.com).
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </div>
-<h2 align="center">Libraries</h2>
+<h2 align="center">Libraries/Frameworks</h2>
 <div align="center">
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
