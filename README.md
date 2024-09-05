@@ -4,7 +4,7 @@
 <h2 align="center">About me</h2>
 <div align="center">
 
-I'm software engineer currently working at [Inango](inango.com).
+I'm software engineer currently working at [Inango](https://inango.com).
 
 <table>
   <tbody>
